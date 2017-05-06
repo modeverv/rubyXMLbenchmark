@@ -1,0 +1,1 @@
+# Benchmark ruby XML parse
